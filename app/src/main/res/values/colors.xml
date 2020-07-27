@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#512DA8</color>
+    <color name="colorPrimaryDark">#673AB7</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <item name="lightPink" type="color">#FFE3EB</item>
+    <item name="mediumPink" type="color">#A34A67</item>
+    <item name="blue" type="color">#212121</item>
+    <item name="blue_gray" type="color">#607D8B</item>
+    <item name="light_purple" type="color">#8B74BB</item>
+    <item name="secondaryColor" type="color">#BDBDBD</item>
+</resources>
